@@ -1,0 +1,21 @@
+{
+  "name": "torrents",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "David Rimbault <rimbault.david@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
